@@ -1,0 +1,25 @@
+#k1{
+  width: 100vw;
+  height: 100vh;
+ 
+}
+
+#title{
+  text-anchor: middle;
+  font-size: 5vh;
+  text-shadow: 1px 2px 3px black;
+}
+.datamaps-hoverover {	
+  position: absolute;			
+  text-align: left;			
+  width: auto;					
+  height:auto;					
+  padding: 2px;				
+  font: 12px sans-serif;		
+  background: rgb(215, 222, 176);	
+  border: 1px;		
+  border-radius: 2px;			
+  pointer-events: none;	
+  line-height: 130%	;
+  color: black;
+  box-shadow: 1px 1px 1px 1px rgba(241, 239, 239, 0.75);}
